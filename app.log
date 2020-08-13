@@ -1,0 +1,22 @@
+timeloop - INFO - Starting Timeloop..
+timeloop - INFO - Registered job <function sendEmailAboutNews at 0x7fab3f0ca940>
+timeloop - INFO - Timeloop now started. Jobs will run based on the interval set
+root - WARNING - 01:02:05: still running
+root - WARNING - 01:02:07: still running
+root - WARNING - 01:02:09: still running
+root - WARNING - 01:02:11: still running
+root - WARNING - 01:02:13: still running
+root - WARNING - 01:02:15: still running
+root - WARNING - 01:02:17: still running
+root - WARNING - 01:02:19: still running
+root - WARNING - 01:02:21: still running
+root - WARNING - 01:02:23: still running
+root - WARNING - 01:02:25: still running
+root - WARNING - 01:02:27: still running
+root - WARNING - 01:02:29: still running
+root - WARNING - 01:02:31: still running
+root - WARNING - 01:02:33: still running
+root - WARNING - 01:02:35: still running
+root - WARNING - 01:02:37: still running
+timeloop - INFO - Stopping job <function sendEmailAboutNews at 0x7fab3f0ca940>
+timeloop - INFO - Timeloop exited.
