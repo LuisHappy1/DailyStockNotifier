@@ -11,7 +11,7 @@ rh = Robinhood()
 rh.login(username=os.getenv('ROBINHOOD_USERNAME'), password=os.getenv('ROBINHOOD_PASSWORD'), challenge_type='sms')
 
 
-@tl.job(interval=timedelta(seconds=3))
+@tl.job(interval=timedelta(seconds=45))
 def sendEmailAboutNews():
     t = time.localtime()
 
